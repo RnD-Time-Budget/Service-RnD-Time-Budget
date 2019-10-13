@@ -1,0 +1,27 @@
+{
+  "name": "rnd_time_budgeting",
+  "version": "1.0.0",
+  "description": "Package for RnD:Riach and Dotterer Time Budgeting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thextool/GoogleTimeBudgeting.git"
+  },
+  "keywords": [
+    "time",
+    "budgeting"
+  ],
+  "author": "Matt Riach and Jarred Dotterer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thextool/GoogleTimeBudgeting/issues"
+  },
+  "homepage": "https://github.com/thextool/GoogleTimeBudgeting#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0",
+    "react": "^16.10.2"
+  }
+}
